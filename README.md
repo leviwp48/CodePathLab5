@@ -3,7 +3,7 @@
 
 # Project Name - SimpleChat
 
-This is a simple app for chatting
+This is a simple app that accesses the Parse API to store and grab users messages. The app will switch which user is chatting when it is restarted. 
 
 # Video walkthrough
 
